@@ -331,6 +331,9 @@ header {
 }
 
 /* PROJETOS */
+.sessao-projetos {
+    padding: 3rem;
+}
 .projetos {
     display: flex;
     justify-content: space-evenly;
